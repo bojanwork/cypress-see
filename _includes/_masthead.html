@@ -43,14 +43,11 @@
 {% endif %}
 
 
-
-
-
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
-	<div class="row">
-		<div class="small-12 columns">
+	<div style="padding-left: 5rem">
+		<div class="small-6 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
 				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
 			</a>

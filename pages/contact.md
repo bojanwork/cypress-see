@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  image_fullwidth: header_unsplash_7.jpg
+  image_fullwidth: header-contact.jpg
 title: "Contact"
 meta_title: "Contact and use our contact form"
 # subheadline: ""

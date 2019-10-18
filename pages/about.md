@@ -4,7 +4,7 @@ show_meta: false
 title: "About Cypress South East Europe"
 # subheadline: ""
 header:
-  image_fullwidth: header_unsplash_7.jpg
+  image_fullwidth: header_unsplash_4.jpg
 permalink: "/about/"
 ---
 

@@ -3,7 +3,7 @@
 - name: Twitter
   url: http://www.google.com
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: ""
 
 - name: Facebook
   url: http://www.google.com/

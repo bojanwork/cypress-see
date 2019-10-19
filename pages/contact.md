@@ -3,8 +3,9 @@ layout: page
 header:
   image_fullwidth: header-contact.jpg
 title: "Contact"
-meta_title: "Contact and use our contact form"
+meta_title: "Contact us"
 # subheadline: ""
-teaser: "Comming soon"
+teaser: ""
 permalink: "/contact/"
 ---
+Fastest way to reach out to us is via info@cypress-see.com.

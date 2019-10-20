@@ -31,4 +31,3 @@ homepage: true
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
-<h2> Comming soon! </h2>

@@ -11,13 +11,13 @@ header:
 widget1:
   title: "Cypress.io"
   url: 'https://www.cypress.io/'
-  image: cypress-logo.png
+  image: "cypress-logo.png"
   text: 'Cypress is a next generation front end testing tool built for the modern web'
 
 widget2:
   title: "Cypress documentation"
   url: 'https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell'
-  image: gallery-example-4.jpg
+  image: "cy-documentation.gif"
   text: 'Explore all possibilities and libraries in cypress documentation '
 
 widget3:

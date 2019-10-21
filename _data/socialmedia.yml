@@ -21,6 +21,11 @@
   title: ""
 
 
+- name: Linkedin
+  url: cypress-south-east-europe-community
+  class: icon-linkedin
+  title: "Linkedin"
+
 # - name: Pinterest
 #   url: http://www.pinterest.com/
 #   class: icon-pinterest

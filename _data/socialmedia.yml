@@ -15,14 +15,14 @@
   class: icon-instagram
   title: "Instagram"
 
-- name: Slack
-  url: http://www.google.com
-  class: icon-twitter
-  title: ""
+# - name: Slack
+#   url: http://www.google.com
+#   class: icon-twitter
+#   title: ""
 
 
 - name: Linkedin
-  url: cypress-south-east-europe-community
+  url: linkedin.com/company/cypress-south-east-europe-community
   class: icon-linkedin
   title: "Linkedin"
 

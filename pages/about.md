@@ -19,7 +19,7 @@ Anyone willing to help and participate is more than welcome to do so!
 <h2>Team</h2>
 <div class="t30 b30">
   <div>
-   <h4 style="text-align:center">Bojan (Co-founder)</h4>
+   <h4 style="text-align:center">Bojan Jevtić(Co-founder)</h4>
    <img src="../images/Bojan.jpg" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius:50%; border-width: 5px; border-color: black; border-style:inset" class="b30 t30">
   </div>
   <div style="text-align:center">
@@ -33,7 +33,7 @@ Anyone willing to help and participate is more than welcome to do so!
 
  <div>
    <div>
-    <h4 style="text-align:center">Tamara (Co-founder)</h4>
+    <h4 style="text-align:center">Tamara Popov (Co-founder)</h4>
     <img src="../images/Tamara.jpg" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius:50%; border-width: 5px; border-color: black; border-style:outset" class="b30 t30">
   </div>
   <div style="text-align:center">

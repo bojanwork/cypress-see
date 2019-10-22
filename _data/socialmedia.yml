@@ -10,10 +10,10 @@
 #   class: icon-soundcloud
 #   title: ""
 
-- name: Instagram
-  url: http://www.google.com/
-  class: icon-instagram
-  title: "Instagram"
+# - name: Instagram
+#   url: http://www.google.com/
+#   class: icon-instagram
+#   title: "Instagram"
 
 # - name: Slack
 #   url: http://www.google.com
@@ -22,7 +22,7 @@
 
 
 - name: Linkedin
-  url: linkedin.com/company/cypress-south-east-europe-community
+  url: http://www.linkedin.com/company/cypress-south-east-europe-community
   class: icon-linkedin
   title: "Linkedin"
 

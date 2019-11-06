@@ -11,7 +11,7 @@ permalink: "/about/"
 
 <h2>Vision and goals</h2>
 
-Main purpose of Cypress South-East Europe is to create a community of testers and developers in this part of the world, in order to make knowledge sharing easier.
+Main purpose of a Cypress South-East Europe independent community is to create an opportunity for testers and developers in this part of the world to network and share knowledge.
 Besides social media pages, we will be hosting local and regional meetups (more information soon).
 
 Anyone willing to help and participate is more than welcome to do so!

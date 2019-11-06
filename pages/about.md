@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "About Cypress South East Europe"
+title: "About Cypress South East Europe Community"
 # subheadline: ""
 header:
   image_fullwidth: header_unsplash_4.jpg

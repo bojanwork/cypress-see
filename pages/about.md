@@ -16,8 +16,8 @@ Besides social media pages, we will be hosting local and regional meetups (more 
 
 Anyone willing to help and participate is more than welcome to do so!
 
-<h2>Team</h2>
-<div class="t30 b30">
+<h2>Core team</h2>
+<div style="margin-bottom:10%">
   <div>
    <h4 style="text-align:center">Bojan Jevtić (Co-founder)</h4>
    <img src="../images/Bojan.jpg" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius:50%; border-width: 5px; border-color: black; border-style:inset" class="b30 t30">
@@ -31,7 +31,7 @@ Anyone willing to help and participate is more than welcome to do so!
   </div>
  </div>
 
- <div>
+ <div style="margin-bottom:10%">
    <div>
     <h4 style="text-align:center">Tamara Popov (Co-founder)</h4>
     <img src="../images/Tamara.jpg" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius:50%; border-width: 5px; border-color: black; border-style:outset" class="b30 t30">
@@ -43,4 +43,17 @@ Anyone willing to help and participate is more than welcome to do so!
   <div class="t15">
     <a href="https://www.linkedin.com/in/tamara-popov-3a604497/" target="blank"><img src="../images/li-icon.png" style="height:40px; width:40px; display: block; margin-left:auto; margin-right:auto"></a>
   </div>
+  </div>
+
+  <div>
+    <div>
+     <h4 style="text-align:center">Nikola Đuza</h4>
+     <img src="../images/Nikola.png" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 50%; border-radius:50%; border-width: 5px; border-color: black; border-style:outset" class="b30 t30">
+   </div>
+   <div style="text-align:center">
+       Software Engineer with love for testing and Cypress. Codes mostly in Ruby and JavaScript. Located in Novi Sad, Serbia.
+   </div>
+   <div class="t15">
+     <a href="https://linkedin.com/in/nikoladjuza" target="blank"><img src="../images/li-icon.png" style="height:40px; width:40px; display: block; margin-left:auto; margin-right:auto"></a>
+   </div>
 </div>

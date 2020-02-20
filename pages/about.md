@@ -59,7 +59,7 @@ Anyone willing to help and participate is more than welcome to do so!
     <img src="../images/Tamara.jpg" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 35%; border-radius:50%; border-width: 5px; border-color: black; border-style:outset" class="b30 t30">
   </div>
   <div style="text-align:center">
-      QA Analyst and big cypress fan located in Belgrade, Serbia.
+      QA Analyst and big Cypress fan located in Belgrade, Serbia.
      <br>tamara@cypress-see.com
   </div>
   <div class="t15">

@@ -15,13 +15,13 @@ widget1:
   text: 'Cypress is a next generation front end testing tool built for the modern web'
 
 widget2:
-  title: "Cypress documentation"
+  title: "Cypress.io documentation"
   url: 'https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell'
   image: "cy-documentation.gif"
   text: 'Explore all possibilities and libraries in cypress documentation '
 
 widget3:
-  title: "Cypress on github"
+  title: "Cypress.io on GitHub"
   url: 'https://github.com/cypress-io/cypress'
   image: widget-github-303x182.jpg
   text: 'Git repo'

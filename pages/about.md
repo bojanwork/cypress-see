@@ -45,7 +45,7 @@ Anyone willing to help and participate is more than welcome to do so!
    <img src="../images/Bojan.jpg" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 35%; border-radius:50%; border-width: 5px; border-color: black; border-style:inset" class="b30 t30">
   </div>
   <div style="text-align:center">
-     QA Analyst and automation enthusiast located in Belgrade, Serbia.
+     QA Engineer and automation enthusiast located in Belgrade, Serbia.
      <br>bojan@cypress-see.com
   </div>
   <div class="t15">
@@ -73,7 +73,7 @@ Anyone willing to help and participate is more than welcome to do so!
      <img src="../images/Nikola.png" alt="" style="height:auto; width:250px; display: block; margin-left: auto; margin-right: auto; width: 35%; border-radius:50%; border-width: 5px; border-color: black; border-style:outset" class="b30 t30">
    </div>
    <div style="text-align:center">
-       Software Engineer with love for testing and Cypress. Codes mostly in Ruby and JavaScript. Located in Novi Sad, Serbia.
+       Software Engineer with love for testing and Cypress. Codes mostly in Ruby and JavaScript. Official Cypress ambassador. Located in Novi Sad, Serbia.
    </div>
    <div class="t15">
      <a href="https://linkedin.com/in/nikoladjuza" target="blank"><img src="../images/li-icon.png" style="height:40px; width:40px; display: block; margin-left:auto; margin-right:auto"></a>
